@@ -25,7 +25,7 @@
          <key>needs-shine</key>
          <true/>
          <key>url</key>
-         <string>http://yun.kmtsolution.com:8080/app/appIcon_57x57.png</string>
+         <string>https://xt.markfairwhale.com/js/apps/appIcon_57x57.png</string>
         </dict>
         <!-- full-size-image: the large 512x512 icon used by iTunes. -->
         <dict>
@@ -34,7 +34,7 @@
          <key>needs-shine</key>
          <true/>
          <key>url</key>
-         <string>http://yun.kmtsolution.com:8080/app/appIcon_512x512.png</string>
+         <string>https://xt.markfairwhale.com/js/apps/appIcon_512x512.png</string>
         </dict>
       </array>
 <key>metadata</key>
@@ -44,13 +44,13 @@
        <string>com.kmt.app.Mark</string>
        <!-- optional (software only) -->
        <key>bundle-version</key>
-       <string>1.0</string>
+       <string>1.0.0</string>
        <!-- required. the download kind. -->
        <key>kind</key>
        <string>software</string>
        <!-- optional. displayed during download; typically company name -->
        <key>subtitle</key>
-       <string>KMT</string>
+       <string>Mark</string>
        <!-- required. the title to display during the download. -->
        <key>title</key>
        <string>巡店宝</string>
